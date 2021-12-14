@@ -10,6 +10,8 @@
             <div>
                 <canvas id="disk-chart-02" style="width: 250px; height: 300px"></canvas>
             </div>
+
+
         </div>
     </el-card>
 </template>
