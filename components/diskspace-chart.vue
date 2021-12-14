@@ -14,6 +14,7 @@
     </el-card>
 </template>
 
+
 <script>
 import _ from "lodash";
 import Chart from "chart.js/auto";
